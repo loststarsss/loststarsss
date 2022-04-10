@@ -17,6 +17,7 @@
   <a href="https://blog.csdn.net/weixin_42318888"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/14430011"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/loststarsss"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+ </div>
 
 <!-- visitor count -->
 <p align="center"> 
@@ -38,8 +39,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loststarsss&theme=dark&hide_border=true" />
 </div>
 <br>
-
-
 
 <!-- 基础数据统计 -->
 <div align="center">
