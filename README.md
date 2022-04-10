@@ -25,6 +25,13 @@
 
 # My GitHub Actions
 
+<!-- 基础数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=loststarsss&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loststarsss&layout=compact">
+</div>
+<br>
+
 <!-- GitHub Activity Graph -->
 <table align="center">
   <tr>
@@ -33,10 +40,3 @@
     </td>
   </tr>
 </table>
-
-<!-- 基础数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=loststarsss&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loststarsss&layout=compact>
-</div>
-<br>
