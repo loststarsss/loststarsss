@@ -40,4 +40,9 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loststarsss&hide_title=true&hide_border=true&langs_count=6&layout=compact&theme=dark" />
 </div>
 <br>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
