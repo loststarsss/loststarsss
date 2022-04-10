@@ -1,5 +1,7 @@
 <!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=又是摸鱼的一天！&center=true&size=27">
+<div alin="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=又是摸鱼的一天！&center=true&size=27">
+</div>
 
 # Hi, I'm Neng 👋
 
