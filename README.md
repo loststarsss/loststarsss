@@ -8,6 +8,12 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
+# Hi, I'm Neng 👋
+
+- I'm a postgraduate student at King’s College London, University of London. 🏠
+- Major in Advanced Software Engineering. 💻
+- Want to build interesting softwares. :robot:
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://https://github.com/loststarsss/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
@@ -18,20 +24,6 @@
   <a href="https://space.bilibili.com/14430011"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/loststarsss"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
  </div>
-
-<!-- visitor count -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
-
-
-# Hi, I'm Neng 👋
-
-- I'm a postgraduate student at King’s College London, University of London. 🏠
-- Major in Advanced Software Engineering. 💻
-- Want to build interesting softwares. :robot:
 
 # My GitHub Actions
 <!-- 连续提交代码天数记录 -->
