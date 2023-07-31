@@ -19,23 +19,3 @@
   <a href="https://space.bilibili.com/14430011"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/loststarsss"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
  </div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-# My GitHub Actions
-
-<!-- 基础数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=loststarsss&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" />
-</div>
-<br>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=loststarsss&theme=xcode&bg_color=FF000000&hide_border=true&hide_title=true" />
-    </td>
-  </tr>
-</table>
